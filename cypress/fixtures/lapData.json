@@ -1,0 +1,18 @@
+{
+  "name": "Test Lap",
+  "distance": 1000,
+  "horses": [
+    {
+      "id": 1,
+      "position": 10,
+      "color": "red",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "position": 20,
+      "color": "blue",
+      "order": 2
+    }
+  ]
+}
